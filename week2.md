@@ -49,6 +49,6 @@
 - 피어 피드백 시간에 시각화한 자료의 유무가 토론의 질을 향상시키는 것을 느꼈습니다. 시각화 자동화툴을 사용해본적이 없는데, mermaid엔진을 활용해서 생산성을 챙겨보려고 합니다.
 
 ### K004\_김동경 퀘스트4 AI 모의 면접관
-<img width="981" height="500" alt="image" src="https://gist.github.com/user-attachments/assets/6e8037b1-7bc9-4faf-8243-dd5af796b2ae" />
-<img width="988" height="391" alt="image" src="https://gist.github.com/user-attachments/assets/19552826-a163-4987-b1c9-7de9797f71e8" />
-<img width="911" height="439" alt="image" src="https://gist.github.com/user-attachments/assets/c91adf18-bb8b-4ed8-a849-0ad6a8fcaca2" />
+<img width="969" height="500" alt="image" src="https://github.com/user-attachments/assets/1745dde6-5576-4db8-ae65-553299c035a0" />
+<img width="627" height="385" alt="image" src="https://github.com/user-attachments/assets/a7e29668-d492-43f4-8612-45d0fd090d29" />
+<img width="887" height="319" alt="image" src="https://github.com/user-attachments/assets/26157806-0660-497e-abe5-055951ecc4ce" />
