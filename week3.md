@@ -158,27 +158,24 @@ AI가 생성한 이미지 1장 이상 업로드
   Git의 blob은 얕은 복사와 유사하다. Git은 파일의 내용을 저장할 때 내용과 헤더를 기반으로 SHA1 해시를 계산하여 주소를 만든다. 두 개의 파일이 내용이 같으면 하나의 blob 객체를 참조한다. 내용을 기준으로 동일한 해시 주소를 공유하기 때문에 결과적으로 하나의 blob 객체를 참조하는 꼴이 되는 것이다. 이를통해 Git은 저장 용량을 효율적으로 관리할 수 있다. << 내 학습정리야 어느 부분을 시각화해서 나타내면 독자들이 읽는데 이해가 쉬울까 ? 시각화 하지말고, 시각화하면 좋을 포인트를 몇 개 집어줘. 이때, 내 학습정리에서 어떤 글인지 정확히 출력해서 내게 보내줘. 시각화도구는 다른 도구를 사용할 거기 때문에 시각화할 필요는 없어.  
  ```
  
- - GPT 응답을 보고 1번 git add명령어의 흐름을 시각화 하기로 했다.
- 
- <img width="472" height="714" alt="image" src="https://gist.github.com/user-attachments/assets/32f144b1-efbd-42e7-877f-744f7b45cd38" />
+ 예시는 GPT 응답에서 1번 git add명령어의 흐름을 시각화 하기로 했다. GPT의 응답은 **조사하기** 를 참고한다.
+
  
  ## 과정2) Canva, Claude 등 AI를 이용하여 시각화한다.
  
  Google에 canva ai를 검색하여 canva에 들어간다.
  
- <img width="898" height="394" alt="image" src="https://gist.github.com/user-attachments/assets/37b2bd8c-feaf-4673-bec6-cfa20a25e4e1" />
- 
- 그러면 이런 창이 나올 것이다.
- 
- <img width="637" height="243" alt="image" src="https://gist.github.com/user-attachments/assets/efb9965c-3443-4e37-b97e-073f309ac36a" />
- 
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/cd8d730a-a39f-427a-bc12-b17b316b01e0" />
+
  아래의 이미지생성, 문서 초안 작성, 코드 생성에서 **반드시 코드 생성**을 클릭한다.시각화할 내용을 쓰고 추가 프롬프트를 입력한다
  
- <img width="797" height="454" alt="image" src="https://gist.github.com/user-attachments/assets/bb936cad-fc5d-4a6b-a3a9-ee7bc31a5c2b" />
+ <img width="390" height="200" alt="image" src="https://github.com/user-attachments/assets/bae654e1-bf5b-4308-881b-4a4ada4041b0" />
+
  
- 결과를 캡쳐하여 README, 학습정리에 사용한다
+ 완성된 결과를 캡쳐하여 README, 학습정리에 사용한다
  
- <img width="1434" height="884" alt="image" src="https://gist.github.com/user-attachments/assets/48511028-aa50-40bb-8a89-be15de6b63eb" />
+<img width="350" height="210" alt="image" src="https://github.com/user-attachments/assets/5eb0ca5c-3083-4d2d-9796-3edf0e086d21" />
+
 
 
 ## 퀘스트 2: 🎯 **AI 데일리 체크포인트 생성기**
