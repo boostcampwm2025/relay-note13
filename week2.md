@@ -39,6 +39,14 @@
 `선택한 이유`
 직접 작성한 체크 포인트에는 러프하게 작성하다 보니 빠진 부분들이 많다. 빠진 부분들을 AI를 통해 분석하면서 내가 체크 하지 못하는 부분들을 체크하고 그런 부분들이 어딘지 파악해볼수 있을것 같다.
 
+**`수행 결과`**
+<img width="912" height="880" alt="image" src="https://private-user-images.githubusercontent.com/154689763/473284152-d59fdb59-e49d-4fa0-a677-24a43c9dec2d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwMjIyNDIsIm5iZiI6MTc1NDAyMTk0MiwicGF0aCI6Ii8xNTQ2ODk3NjMvNDczMjg0MTUyLWQ1OWZkYjU5LWU0OWQtNGZhMC1hNjc3LTI0YTQzYzlkZWMyZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwMVQwNDE5MDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNDY0MTU0YzYxYjVlOTkxOTc4Y2FlMTJlZDIwNTc2YzdkNjg5YmM2NmM1NTg4ZWY5YmMwNmMwYzI5NjVkYjQ0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.M_IG6AaVRzhoctaA9nR-FJ_qXiuAHrdhzOmwBrq4tqw" />
+</details>
+
+**`느낀점`**
+
+구현에 집중해서 신경 쓰지 못한 학습 포인트를 AI가 짚어주면서 학습을 좀 더 깊게 할 수 있었던 것 같다. 학습 이후에도 추가적으로 AI에게 추천을 받아 학습을 진행해보고자 한다
+
 ### J143\_송상화 - 📊 AI 프로젝트 시각화 매니저(개선버전: 예제 프롬프트 추가)
 
 문서 작성 시 다이어그램을 첨부하면 이해에 많은 도움이 되는 것 같아 이번 기회에 mermaid 로 다이어그램을 만들어 보기로 결정했다.
