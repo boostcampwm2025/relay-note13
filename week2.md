@@ -43,13 +43,89 @@
 
 문서 작성 시 다이어그램을 첨부하면 이해에 많은 도움이 되는 것 같아 이번 기회에 mermaid 로 다이어그램을 만들어 보기로 결정했다.
 
-**결과**
+<details>
+<summary>부스트 영상 서비스</summary>
+
+#### 내용
+
+결과를 출력하기 위한 최종 인터페이스가 담겨 있는 use case 를 바탕으로 다이어그램을 만들어 달라고 부탁했다.
+
+디테일한 필드나 메서드는 조금 수정했다.
+
+#### 프롬프트
+
+```
+import Publisher from './Publisher.js';
+import Broker from './Broker.js';
+import Video from './Video.js';
+import { Uploader, Converter, Validator } from './VideoModule.js';
+
+// ================ Message Broker ================ // 
+
+const broker = new Broker();
+
+// ================ Video Modules ================ //
+
+const uploader = new Uploader(Video Uploader, broker);
+uploader.subscribe(upload, convert);
+
+const converter = new Converter(Video Converter ${count + 1}, broker);
+converter.subscribe(convert, validate);
+ 
+const validator = new Validator(Video Validator ${count + 1}, broker);
+validator.subscribe(validate, null); 
+
+// ================ User ================ //
+
+const userA = new Publisher(User A, broker, upload);
+const video = new Video(The c programming language, medium);
+userA.publish(video);
+
+const userB = new Publisher(User B, broker, upload);
+const newVideo = new Video(Me at the zoo, short);
+userB.publish(newVideo);
+
+위 구조를 표현하는 클래스를 mermaid 로 만들어줄 수 있나요? 
+```
+
+#### 결과
 
 <img width="916" height="884" alt="image" src="https://github.com/user-attachments/assets/addb5cf5-470d-4251-92c8-38212664f170" />
+</details>
 
+
+<details>
+<summary>버전 관리 도구</summary>
+
+#### 내용
+
+이번에는 간단하게 참조 관계를 표현하고 이를 바탕으로 다이어그램을 그려 달라고 부탁했다.
+이전 대화에서 AI 를 사용하면서 작성한 코드들이 있었기 때문에 이를 기억하여 표현해줄 수 있을 것이라 생각했다.
+디테일한 필드와 메서드는 직접 수정했다.
+
+#### 프롬프트
+
+```
+Git 이 Repository 를 참조하고,
+Repository 가 Index, ObjectDatabase 를 가지고,
+GitObject 가 Blob, Tree, Commit 을 상속시키는 구조를 mermaid 로 그려줄 수 있나요?
+```
+
+#### 결과
 
 <img width="912" height="880" alt="image" src="https://github.com/user-attachments/assets/b6ea2b69-313e-46e1-96a8-7ec88659cf63" />
+</details>
 
+<details>
+<summary>느낀점</summary>
+
+다이어그램을 그리니 확실히 구조가 눈에 잘 들어오는 것 같다.
+
+그리는 것이 좋다는 것을 알면서도 시간이 오래 걸릴 것 같아 망설인 적이 많았는데 앞으로는 AI 를 사용해서 빠르게 그려 볼 생각이다.
+
+AI 의 활용성이 참 다양한 것 같다.
+
+</details> 
 
 ### J218\_이태호 - 📊 AI 프로젝트 시각화 매니저(개선버전: 예제 프롬프트 추가)
 
