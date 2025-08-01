@@ -43,6 +43,14 @@
 
 문서 작성 시 다이어그램을 첨부하면 이해에 많은 도움이 되는 것 같아 이번 기회에 mermaid 로 다이어그램을 만들어 보기로 결정했다.
 
+**결과**
+
+<img width="916" height="884" alt="image" src="https://github.com/user-attachments/assets/addb5cf5-470d-4251-92c8-38212664f170" />
+
+
+<img width="912" height="880" alt="image" src="https://github.com/user-attachments/assets/b6ea2b69-313e-46e1-96a8-7ec88659cf63" />
+
+
 ### J218\_이태호 - 📊 AI 프로젝트 시각화 매니저(개선버전: 예제 프롬프트 추가)
 
 `선택한 이유`
