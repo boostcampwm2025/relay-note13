@@ -139,6 +139,13 @@ AI 의 활용성이 참 다양한 것 같다.
 ### J261\_지현동 - 퀘스트 1: AI 프로젝트 시각화 매니저(개선버전: 예제 프롬프트 추가)
 - 피어 피드백 시간에 시각화한 자료의 유무가 토론의 질을 향상시키는 것을 느꼈습니다. 시각화 자동화툴을 사용해본적이 없는데, mermaid엔진을 활용해서 생산성을 챙겨보려고 합니다.
 
+`퀘스트 결과`
+
+<img width="965" height="850" alt="image" src="https://gist.github.com/user-attachments/assets/ea186a58-2b94-4873-8567-3ce4aa64a3bd" />
+
+`느낀점`
+AI를 통해 mermaid 엔진으로 해당 코드를 정리해 달라고 했습니다. 제대로 결과물이 안 나와서 여러번 시도해야했고, 프롬프팅을 많이 신경써야함을 알게되었습니다. 앞으로 시각화 자동화툴을 더 적극적으로 사용해보려 합니다.
+
 ### K004\_김동경 퀘스트4 AI 모의 면접관
 <img width="969" height="500" alt="image" src="https://github.com/user-attachments/assets/1745dde6-5576-4db8-ae65-553299c035a0" />
 <img width="627" height="385" alt="image" src="https://github.com/user-attachments/assets/a7e29668-d492-43f4-8612-45d0fd090d29" />
