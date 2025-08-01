@@ -150,3 +150,7 @@ AI를 통해 mermaid 엔진으로 해당 코드를 정리해 달라고 했습니
 <img width="969" height="500" alt="image" src="https://github.com/user-attachments/assets/1745dde6-5576-4db8-ae65-553299c035a0" />
 <img width="627" height="385" alt="image" src="https://github.com/user-attachments/assets/a7e29668-d492-43f4-8612-45d0fd090d29" />
 <img width="887" height="319" alt="image" src="https://github.com/user-attachments/assets/26157806-0660-497e-abe5-055951ecc4ce" />
+느낀점 <br>
+- AI를 통해 나의 학습 내용을 검토할 수 있었고 거의 알고있다고 생각한 내용이였지만 더 보완할 내용과 추가하면 깊이있는 대답이 
+될 수 있다는 피드백을 통해 AI를 통해 나의 학습 내용을 검증할 수 있고 내가 어떤 부분을 놓쳤는지 확인할 수 있어 이러한 부분에 있어 학습을 더 깊이 있게 활용할 수 있어
+기억에 오래남아 좋았고 앞으로도 학습 정리 후 AI를 통해 검증하는 과정을 거칠려고 합니다.
